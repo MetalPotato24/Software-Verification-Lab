@@ -41,6 +41,7 @@ function calculateCompoundInterest(P, r, n, t) {
 }
 function calculatePercentage(value, percentage) {
   return (value * percentage) / 100;
+  
 }
 
 
